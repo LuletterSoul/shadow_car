@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_type_array">
+        <item>原始格式</item>
+        <item>CAN格式</item>
+    </string-array>
+
+    <string-array name="format_array">
+        <item>EXTENDED_IDENTIFIER</item>
+        <item>STANDARD</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>DATA_FRAME</item>
+        <item>REMOTE_FRAME</item>
+    </string-array>
+</resources>
